@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Samuel Adesola
+# Hi there 👋, I'm Samuel Dayo Adesola
 
 Welcome to my GitHub profile!  
 I'm an **IoT and Embedded Systems Engineer** with a passion for Robotics, Mechatronics, and Systems Engineering.
@@ -19,7 +19,7 @@ I'm an **IoT and Embedded Systems Engineer** with a passion for Robotics, Mechat
 ## 📫 Connect with Me
 - 🌍 Website: [adesolasamuel.me](https://adesolasamuel.me)
 - 🐦 Twitter: [@AdesolaSamuel18](https://twitter.com/AdesolaSamuel18)
-- 📹 YouTube Channel: [My Channel](https://youtube.com/placeholder) <!-- Replace this with your actual channel link -->
+- 📹 YouTube Channel: [My Channel](https://www.youtube.com/@RolesAcademy) 
 
 ## 📊 GitHub Stats
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesolasamuel&show_icons=true&theme=radical)
