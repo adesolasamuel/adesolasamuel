@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 I'm an **IoT and Embedded Systems Engineer** with a passion for Robotics, Mechatronics, and Systems Engineering.
 
 ## 👨‍💻 About Me
-- 🚀 **Student of Mechatronics and Systems Engineering**
+- 🚀 **B.Eng Mechatronics and Systems Engineering**
 - 🤖 **Robotics Enthusiast**
-- 💻 Skilled in **C++**, **Python**, and **MATLAB**
+- 💻 Skilled in **C++**, **Python**, ROS2, Computer Vision, Robotics CAD, and **MATLAB**
 - 🔌 Experienced in **IoT** and **Embedded Systems Development**
 
 ## 🌱 Interests
