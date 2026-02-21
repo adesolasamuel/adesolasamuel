@@ -15,7 +15,7 @@ I'm a **Mechatronics and Systems Engineer** with a passion for Robotics, Mechatr
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/adesolasamuel/perez">
-        <img src="https://raw.githubusercontent.com/adesolasamuel/perez/main/perez_demo.gif" alt="Perez Demo" width="100%"><br>
+        <img src="perez_demo.gif" alt="Perez Demo" width="100%"><br>
         <b>Perez - ROS2 Four Wheel Differential Drive Robot</b>
       </a>
     </td>
