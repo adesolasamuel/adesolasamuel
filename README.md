@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Samuel Dayo Adesola
 
 Welcome to my GitHub profile!  
-I'm an **IoT and Embedded Systems Engineer** with a passion for Robotics, Mechatronics, and Systems Engineering.
+I'm a **Mechatronics and Systems Engineer** with a passion for Robotics, Mechatronics, and Systems Engineering.
 
 ## 👨‍💻 About Me
 - 🚀 **B.Eng Mechatronics and Systems Engineering**
@@ -9,20 +9,24 @@ I'm an **IoT and Embedded Systems Engineer** with a passion for Robotics, Mechat
 - 💻 Skilled in **C++**, **Python**, ROS2, Computer Vision, Robotics CAD, and **MATLAB**
 - 🔌 Experienced in **IoT** and **Embedded Systems Development**
 
-## 🌱 Interests
-- Robotics and Automation
-- IoT Applications
-- Embedded Systems Design
-- Control Systems
-- Artificial Intelligence for Mechatronics
+## 🚀 Projects
 
-## 📫 Connect with Me
-- 🌍 Website: [adesolasamuel.me](https://adesolasamuel.me)
-- 🐦 Twitter: [@AdesolaSamuel18](https://twitter.com/AdesolaSamuel18)
-- 📹 YouTube Channel: [My Channel](https://www.youtube.com/@RolesAcademy) 
-
-## 📊 GitHub Stats
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesolasamuel&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/adesolasamuel/perez">
+        <img src="perez_demo.gif" alt="Perez Demo" width="100%"><br>
+        <b>Perez - ROS2 Four Wheel Differential Drive Robot</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <!-- Coming Soon -->
+    </td>
+    <td width="33%" align="center">
+      <!-- Coming Soon -->
+    </td>
+  </tr>
+</table>
 
 ---
 
