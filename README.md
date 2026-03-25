@@ -12,8 +12,8 @@
 
 | Perez | SE3 Robot Motions | Project 3 |
 |:-------:|:---------:|:---------:|
-| [<img src="https://raw.githubusercontent.com/adesolasamuel/adesolasamuel/main/perez_demo.gif" width="700">](https://github.com/adesolasamuel/perez) | [<img src="https://raw.githubusercontent.com/adesolasamuel/Robot-Motion-SE-3-/main/Project-Demo.gif" width="700">](https://github.com/adesolasamuel/Robot-Motion-SE-3-) | <img src="https://via.placeholder.com/700x400?text=Coming+Soon" width="700"> |
-| **Perez — ROS2 Four Wheel Differential Drive Robot** | **SE3 Robot Motions** | **Coming Soon** |
+| [<img src="https://raw.githubusercontent.com/adesolasamuel/adesolasamuel/main/perez_demo.gif" width="350">](https://github.com/adesolasamuel/perez) | [<img src="https://raw.githubusercontent.com/adesolasamuel/Robot-Motion-SE-3-/main/Project-Demo.gif" width="350">](https://github.com/adesolasamuel/Robot-Motion-SE-3-) | <img src="https://via.placeholder.com/700x400?text=Coming+Soon" width="700"> |
+| **Perez — ROS2 Four Wheel Differential Drive Robot** | **SE3 Robot Motions - Translation and Rotation** | **Coming Soon** |
 
 ---
 
